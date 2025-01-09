@@ -1,5 +1,5 @@
 // 定义棋盘和游戏状态
-const boardSize = 15; // 棋盘大小
+const boardSize = 30; // 棋盘大小
 const board = [];
 const directions = [
     [1, 0], [0, 1], [1, 1], [1, -1] // 四个主要方向：水平、垂直、对角线、反对角线
